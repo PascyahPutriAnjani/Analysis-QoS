@@ -13,4 +13,7 @@ Bertujuan untuk menganalisis kualitas layanan (QoS) dari situs https://akademik.
 ● Delay       : Waktu yang dibutuhkan untuk mengirim paket.
 
 ## Hasil Analisis
+![Screenshot_20241006_163440_All PDF Maker](https://github.com/user-attachments/assets/8f81ed45-849c-40b5-94aa-08120c97e8af)
+
+## Throughput
 
